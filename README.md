@@ -6,7 +6,7 @@ remortgaged, and so Nicholas, acquiring a troller of his own, very stylish ridin
 such as no one else yet had in Moscow, and boots of the latest fashion, with extremely pointed toes and small 
 silver spues, passed his very gaily.
 
-Использовать потоки записиё
+Использовать потоки записи
 1.  Записать его в файл, прописав относительный путь.
 2.  Записать его в файл, прописав абсолютный путь. 
 3. Вычитать текст из первого файла.
