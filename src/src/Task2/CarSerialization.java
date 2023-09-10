@@ -12,7 +12,7 @@ public class CarSerialization {
         String file= "textFolder/serialize.txt";
         serialize(car, file);
         Car car1=deserialize(file);
-        System.out.println(car1);
+        System.out.println(car);
     }
     static Car createCar(){
         Car car = new Car("жигуль", "1221r1", 150, "зеленый");
