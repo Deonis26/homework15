@@ -1,4 +1,4 @@
-package writeStream;
+package Task1;
 
 import java.io.*;
 
